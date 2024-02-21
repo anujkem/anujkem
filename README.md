@@ -1,14 +1,18 @@
 <h2 align="center">Hi👋, I'm Anuj!</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F713EA&vCenter=true&multiline=true&random=false&width=435&lines=A+passionate+frontend+developer+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F713EA&multiline=true&random=false&width=800&lines=A+passionate+frontend+developer+from+India.)](https://git.io/typing-svg)
 
 ###
 
-<h4 align="left">Background :</h4>
+<h3 align="left">Background :</h3>
 
 ###
 
-<p align="left">💪 Currently Pursuing B.Tech in Computer Science Engineering & AI.<br>🦁 Strong in C, C++, HTML, CSS<br>🐯 Moderate in Programming and DSA<br>🐱 Learning JavaScript, React<br>⚡ Fun fact: 🏏 is my Love, Trading is my Hobby</p>
+<p align="left">💪 Currently Pursuing B.Tech in Computer Science Engineering & AI.
+  <br>🦁 Strong in C, C++, HTML, CSS
+  <br>🐯 Moderate in Programming and DSA
+  <br>🐱 Learning JavaScript, React
+  <br>⚡ Fun fact: 🏏 is my Love, Trading is my Hobby</p>
 
 ###
 
