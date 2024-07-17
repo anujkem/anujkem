@@ -1,6 +1,6 @@
 <h2 align="center">Hi👋, I'm Anuj!</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F713EA&multiline=true&random=false&width=800&lines=A+passionate+frontend+developer+from+India.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F713EA&multiline=true&random=false&width=800&lines=A+passionate+software+developer+from+India.)](https://git.io/typing-svg)
 
 ###
 
