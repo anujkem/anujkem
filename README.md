@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F713EA&multiline=true&random=false&width=800&lines=A+passionate+DevOps+Engineer+from+India.)](https://git.io/typing-svg)
 
-###
-
-<h3 align="left">Background :</h3>
-
-###
-
 ## ⚡ Technologies & Tools
 
 ### ☁️ Cloud & Infrastructure  
@@ -33,14 +27,7 @@ MySQL, MongoDB, DynamoDB
 ### 🔄 DevOps Methodology  
 - ✅ **DevOps Practices**: CI (Continuous Integration), CD (Continuous Delivery & Deployment)  
 - 🔁 **Git Workflow**: GitHub Flow  
-- 🧪 **Code Quality**: Code
 
-
-<p align="left">💪 Currently Pursuing B.Tech in Computer Science Engineering & AI.
-  <br>🦁 Strong in C, C++, HTML, CSS
-  <br>🐯 Moderate in Programming and DSA
-  <br>🐱 Learning JavaScript, React
-  <br>⚡ Fun fact: 🏏 is my Love, Trading is my Hobby</p>
 
 ###
 
