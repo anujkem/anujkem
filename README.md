@@ -1,12 +1,40 @@
 <h2 align="center">Hi👋, I'm Anuj!</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F713EA&multiline=true&random=false&width=800&lines=A+passionate+software+developer+from+India.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F713EA&multiline=true&random=false&width=800&lines=A+passionate+DevOps+Engineer+from+India.)](https://git.io/typing-svg)
 
 ###
 
 <h3 align="left">Background :</h3>
 
 ###
+
+## ⚡ Technologies & Tools
+
+### ☁️ Cloud & Infrastructure  
+**AWS**: EC2, S3, IAM, VPC, Route 53, Load Balancer
+
+### 🐧 OS & Scripting  
+**Operating Systems & Languages**: Linux, Bash, Shell Scripting, Python
+
+### 🐳 DevOps & Automation  
+**Tools**: Docker, Kubernetes (K8s), Amazon ECS, Amazon EKS  
+**CI/CD**: Jenkins, GitLab CI, GitHub Actions, ArgoCD  
+**Infrastructure as Code**: Terraform, Ansible
+
+### 🧪 Monitoring & Logging  
+Prometheus, Grafana, CloudWatch, ELK Stack
+
+### 🔐 Security  
+IAM, SSH, KMS, VPN, Firewall
+
+### 🗃️ Databases  
+MySQL, MongoDB, DynamoDB
+
+### 🔄 DevOps Methodology  
+- ✅ **DevOps Practices**: CI (Continuous Integration), CD (Continuous Delivery & Deployment)  
+- 🔁 **Git Workflow**: GitHub Flow  
+- 🧪 **Code Quality**: Code
+
 
 <p align="left">💪 Currently Pursuing B.Tech in Computer Science Engineering & AI.
   <br>🦁 Strong in C, C++, HTML, CSS
